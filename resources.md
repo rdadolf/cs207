@@ -5,6 +5,8 @@ layout: default
 
 # Resources
 
+---
+
 ## Books
 
 No book is required. But we highly recommend two books for this course. Both are available on Hollis.

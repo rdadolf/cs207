@@ -3,7 +3,9 @@ title: CS 207
 layout: default
 ---
 
-# CS207: Systems Development for Computational Science
+# Systems Development for Computational Science
+
+---
 
 **Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
 

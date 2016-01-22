@@ -1,4 +1,9 @@
-# CS207 Schedule
+---
+title: Schedule
+layout: default
+---
+
+# Schedule
 
 
 

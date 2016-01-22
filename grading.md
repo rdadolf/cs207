@@ -5,6 +5,8 @@ layout: default
 
 # Coursework
 
+---
+
 ## Working in groups
 
 You will work in groups of 4 or 5. You can collaborate as much as you want within a group. You are not allowed to collaborate, unless expressly asked to, outside the group. This collaboration extends to both the labs and the project.
