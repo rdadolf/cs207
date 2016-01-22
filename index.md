@@ -1,6 +1,10 @@
 ---
-title: CS 207: Systems Development for Computational Science
+title: CS 207
 layout: default
+---
+
+# Systems Development for Computational Science
+
 ---
 
 ## Who?
