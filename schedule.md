@@ -48,3 +48,4 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | A25       | Project work                             |                                          |                                          |                                          |
 | M02       | Project work                             |                                          |                                          |                                          |
 | M09       | Project due                              | Project presentations                    | Project grades                           |                                          |
+{:class="table table-striped table-bordered table-condensed"}
