@@ -2,12 +2,26 @@
 title: CS 207
 layout: default
 ---
-Placeholder.
+
 # CS207: Systems Development for Computational Science
 
 **Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
 
 Welcome to CS207!
+
+**When is it?**
+
+Mondays 2.30pm - 5pm Lecture and Lab. (Both compulsory) Pierce 301
+
+Wednesdays 2.30pm - 4.30pm (Lecture Compulsory, lab highly recommended) Pierce 301
+
+Fridays 4pm-6pm (Lecture Compulsory, lab highly recommended) Pierce 301
+
+Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
+
+**How onerous is it?**
+
+Not very. If you attend the labs, you will have about 1-2.5 additional hours in the week needed to work on labs, and a further 6-8 hrs on the project (less in earlier weeks).
 
 **What is this class about?**
 
@@ -43,7 +57,7 @@ After successful completion of this course, you will be able to:
 
 **Who should take this class?**
 
-The prerequisite for this class is programming knowledge, in Python at the level of CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
+The prerequisite for this class is programming knowledge, in Python, at the level of CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
 
 **What is the structure of the class?**
 
