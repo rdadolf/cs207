@@ -1,11 +1,9 @@
 ---
-title: Schedule
+title: Schedule and Syllabus
 layout: default
 ---
 
-# Schedule
-
-
+## Weekly Schedule
 
 Mondays 2.30pm - 5pm Lecture and Lab. (Both compulsory) Pierce 301
 
@@ -15,7 +13,7 @@ Fridays 4pm-6pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
 Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
 
-
+## Syllabus by week
 
 | When      | SSE(L1)                                  | LANG(L2)                                 | DSA(L3)                                  | @home                                    |
 | --------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |

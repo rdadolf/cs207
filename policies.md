@@ -1,10 +1,6 @@
 ---
-title: CS 207
+title: Policies
 layout: default
----
-
-# Policies
-
 ---
 
 ## Course Logistics

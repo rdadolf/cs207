@@ -1,17 +1,17 @@
 ---
-title: CS 207
+title: CS 207: Systems Development for Computational Science
 layout: default
 ---
 
-# Systems Development for Computational Science
-
----
+## Who?
 
 **Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
 
-Welcome to CS207!
+**TFs:** Head TF: Robert Adolf, Chenhui Hu, ...
 
-**When is it?**
+**Staff Email**: mailto:cs207staff@gmail.com
+
+## When?
 
 Mondays 2.30pm - 5pm Lecture and Lab. (Both compulsory) Pierce 301
 
@@ -20,6 +20,8 @@ Wednesdays 2.30pm - 4.30pm (Lecture Compulsory, lab highly recommended) Pierce 3
 Fridays 4pm-6pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
 Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
+
+## FAQ
 
 **How onerous is it?**
 
@@ -31,7 +33,6 @@ Computation has long been an important tool for scientists, but the past two dec
 
 This is an applications course highlighting the use of software engineering and computer science in solving scientific problems. You will learn the
 fundamentals of developing scientific software systems including abstract thinking, algorithmic development, the handling of data, and assessment of computational approaches: all in the context of good software engineering practices.
-
 
 
 **Why take this class?**

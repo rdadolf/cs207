@@ -3,9 +3,6 @@ title: Coursework and grading
 layout: default
 ---
 
-# Coursework
-
----
 
 ## Working in groups
 
