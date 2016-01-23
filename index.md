@@ -1,17 +1,13 @@
 ---
-title: CS 207
+title: CS 207: Systems Development for Computational Science
 layout: default
----
-
-# Systems Development for Computational Science
-
 ---
 
 ## Who?
 
 **Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
 
-**TFs:** Head TF: Robert Adolf, Chenhui Hu, ...
+**TFs:** Bob Adolf, Chenhui Hu, (more to be announced)
 
 **Staff Email**: mailto:cs207staff@gmail.com
 
