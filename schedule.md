@@ -33,7 +33,8 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | M07 lab   | pip, make package                        | start repl for tsdb@home                 | enhance dsl with metadata selection from dicts | add simple query repl on db              |
 {:class="table table-striped table-bordered table-condensed"}
 
-Milestone one and spring break.
+Milestone 1 evaluation and spring break.
+
 ----
 
 | Week      | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                    |
@@ -48,7 +49,8 @@ Milestone one and spring break.
 | A11 lab   | get set on after-class project scope     | take your query language and construct a computational graph | optimize the graph                       | add computational graph to db            |
 {:class="table table-striped table-bordered table-condensed"}
 
-Milestone two.
+Milestone 2 evaluation.
+
 ----
 
 | Week      | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                    |
