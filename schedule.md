@@ -15,6 +15,8 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 
 ## Syllabus by week
 
+<table class="table">
+
 | Week    | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                    |
 | ------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | J25     | Introduction and logistics               | Execution model                          | Basic algorithms                         |                                          |
@@ -31,6 +33,8 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | F29 lab | setup CI, refactor to generators, check CI@home | add ops between TS using operator overloading and multimethods(do synthetic) | multi dispatch TS sort .                 | add between-time series ops including distance |
 | M07     | CLIs and setup.py                        | DSLs and ASTs                            | Metadata and Query Languages             |                                          |
 | M07 lab | pip, make package                        | start repl for tsdb@home                 | enhance dsl with metadata selection from dicts | add simple query repl on db              |
+
+</table>
 {:class="table table-striped table-bordered table-condensed"}
 
 Milestone 1 evaluation and spring break.
