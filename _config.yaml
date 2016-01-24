@@ -1,2 +1,4 @@
 baseurl: /cs207
 markdown: kramdown
+kramdown:
+  input: GFM
