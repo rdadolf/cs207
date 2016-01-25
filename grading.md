@@ -22,7 +22,13 @@ Your grade in this class is made up of the following components:
 
 - **Project** (50%). The project is to create a time-series analysis library and database with a REST API to it.
 
-The deliverables will be (a) code for library (b) code for database (c) a database with a REST API to analyze/add/etc time series in this database; with tests exercising this API (d) a simple demo of these API endpoints from a web page (e) documentation of the library and the API at a web site. These should be a combination of written and automatically generated documentation.
+The deliverables will be:
+
+- (a) code for library
+- (b) code for database
+- (c) a database with a REST API to analyze/add/etc time series in this database; with tests exercising this API
+- (d) a simple demo of these API endpoints from a web page
+- (e) documentation of the library and the API at a web site. These should be a combination of written and automatically generated documentation.
 
 A portion of this project is what we call "basic" and must be implemented by each group. Simpler versions of some of the code in this basic part will be played around with in the labs after class. The basic part is worth 30% and consists of **two milestones** at which you will be graded as a group. M1 will be graded in the spring break and is due the sunday night 11.59pm before that. M2 will be graded in the week of April 18th and once again is due on sunday night at 11.59pm on the sunday night before that week.
 
@@ -30,13 +36,18 @@ Another portion of the project is what we call "additional" and consists of the 
 
 - **Participation** (10%)
 
- The final 10% of your grade comes from participation. This will be gauged in the following way. We will divide groups into "red" groups and "black" groups. (See Red-Black trees.). In each milestone, a red group will contribute one feature (to be decided) to a black groups codebase. Similarly, a black group will contribute another feature to a red group's codebase. This contribution will be made via a github pull request. The contributee will conduct a **code review**, and request changes. Such discussion will take place via issues and pull requests on github. When satisfied, the contributor will merge the feature into their code base.
+ The final 10% of your grade comes from participation.
+
+The first part of participations comes from your presence in online discussions, individual commits, and via a within-group peer review. This is to ensure that certain team members dont slack off.
+
+The second is more complex.
+
+ We will divide groups into "red" groups and "black" groups. (See Red-Black trees.). In the first milestone, a red group will contribute one feature (to be decided) to a black groups codebase. Similarly, a black group will contribute another feature to a red group's codebase. This contribution will be made via a github pull request. The contributee will conduct a **code review**, and request changes. Such discussion will take place via issues and pull requests on github. When satisfied, the contributor will merge the feature into their code base.
 
  The contributor group's contributions will be taken into account in their project grade (the basic part). The discussions and code review: the entire back and forth will contribute to both color's participation grade.
 
- Participation grade will also be determined by other factors, such as individual commits, and a within-group peer review. This is to ensure that certain team members dont slack off.
 
- Peer-review may be used at the end to adjust individual grades up or down.
+**Peer-review may be used at the end to adjust ENTIRE individual grades up or down.**
 
 ## Workflow
 
