@@ -2,6 +2,9 @@
   border-bottom: 1px solid #AC3F36;
   margin: 5px 0 5px;
 }
-hr {
+hr,
+.markdown-body hr {
+  height: 1px;
   border-color: #AC3F36;
+  border: 1px;
 }
