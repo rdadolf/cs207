@@ -34,8 +34,6 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 
 Milestone 1 evaluation and spring break.
 
-----
-
 | Week    | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                 |
 | ------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------- |
 | M21     | DataRepresentation: serialization and Cython | Cython and C API, memproto, fast seq lab | Indexing: dbases/btrees, LSM Trees.      |                                       |
@@ -48,8 +46,6 @@ Milestone 1 evaluation and spring break.
 | A11 lab | get set on after-class project scope     | take your query language and construct a computational graph | optimize the graph                       | add computational graph to db         |
 
 Milestone 2 evaluation.
-
-----
 
 | Week | Monday: Systems and Software Engineering | Wednesday: Language   | Friday: Data Structures and Algorithms   | @home |
 | ---- | ---------------------------------------- | --------------------- | ---------------------------------------- | ----- |
