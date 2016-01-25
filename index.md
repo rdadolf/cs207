@@ -7,7 +7,7 @@ layout: default
 
 **Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
 
-**TFs:** Bob Adolf, Chenhui Hu, (more to be announced)
+**TFs:** Head TF: Robert Adolf, Chenhui Hu, ...
 
 **Staff Email**: mailto:cs207staff@gmail.com
 
@@ -17,7 +17,7 @@ Mondays 2.30pm - 5pm Lecture and Lab. (Both compulsory) Pierce 301
 
 Wednesdays 2.30pm - 4.30pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
-Fridays 4pm-6pm (Lecture Compulsory, lab highly recommended) Pierce 301
+Fridays 11am-1pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
 Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
 
