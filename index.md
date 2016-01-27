@@ -21,6 +21,13 @@ Fridays 11am-1pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
 Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
 
+## Online?
+
+- web site at https://iacs-cs207.github.io/cs207/ (you are reading it)
+- github repo at https://github.com/iacs-cs207/cs207 (clone this fresh for each class or fork it and set this original up as a remote)
+- your own labs repo at `githubusername/cs207labs`
+- discussions at https://github.com/iacs-cs207/cs207/issues
+
 ## FAQ
 
 **How onerous is it?**

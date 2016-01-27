@@ -24,7 +24,7 @@ By appointment. Your lecturer and TFs will meet groups every week in Monday lab,
 
 ## Course Components
 
-**Lectures**
+**Lectures and Labs**
 
 The class meets thrice a week for lectures and subsequent labs. The labs are designed to help you master the relevant materials, to work on your labs in groups, and to make progress on your project. The weekly schedule is posted on the course web site.
 
