@@ -26,3 +26,4 @@ Week 0:
 
 - [Best Practices for Scientific Computing](http://iacs-courses.seas.harvard.edu/courses/cs207/resources/BestPratices.pdf)
 - [Python pep8](https://www.python.org/dev/peps/pep-0008/)
+- [An opinionated guide to python style](https://github.com/amontalenti/elements-of-python-style)
