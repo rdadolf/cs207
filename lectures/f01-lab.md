@@ -29,4 +29,3 @@ Since [2010](https://software.intel.com/en-us/articles/intel-advanced-encryption
 Specifically, recent Haswell chips have an average decryption rate of [0.89 cycles per byte](http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/haswell-cryptographic-performance-paper.pdf) for 256-bit keys.
 If we assume that all your passwords are less than 11 bytes long, and that our processor runs at 2GHz, how many passwords can we try in the time it takes the CS207 webpage to load?
 
-## Q2: Compiers
