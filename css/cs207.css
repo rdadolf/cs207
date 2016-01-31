@@ -12,3 +12,8 @@ h2, .markdown-body h2 {
   border-bottom: 1px solid #AC3F36;
 }
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
