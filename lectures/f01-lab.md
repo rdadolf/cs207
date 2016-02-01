@@ -27,7 +27,7 @@ To simplify things, let's assume that everything except the encryption is free.
 So we need to know how many passwords we can encrypt in 108ms.
 
 Since [2010](https://software.intel.com/en-us/articles/intel-advanced-encryption-standard-aes-instructions-set), Intel CPUs have had special hardware built in which can compute AES in just a couple of instructions.
-Specifically, recent Haswell chips have an average decryption rate of [0.89 cycles per byte](http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/haswell-cryptographic-performance-paper.pdf) for 256-bit keys.
+Specifically, recent Haswell chips have an average encryption rate of [0.89 cycles per byte](http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/haswell-cryptographic-performance-paper.pdf) for 256-bit keys.
 If we assume that all your passwords are less than 11 bytes long, and that our processor runs at 2GHz, how many passwords can we try in the time it takes the CS207 webpage to load?
 
 ## Q2: Fibonacci... again.
@@ -44,6 +44,8 @@ def fib(n):
     if n == 2:
         return 1
     return fib(n-1) + fib(n-2)
+
+fib(8)
 ```
 
 Write it in C.
