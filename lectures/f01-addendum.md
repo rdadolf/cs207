@@ -72,6 +72,10 @@ Additionally, when a function returns, it removes its stack frame from the stack
 This means that at any given point, the stack contains a record of which functions the program is currently in.
 When you run `backtrace` in gdb, this is exactly the information it's telling you.
 
+[Back to top &uarr;](#)
+
+
+<a name='heap'></a>
 ### The Heap
 
 One consequence of removing stack frames after a function returns is that the variables declared within that function no longer have any memory reserved for them.
@@ -148,3 +152,5 @@ For instance, let's say you have a web server program, and every time a page is 
 As time goes on, more and more memory is reserved on the heap for you.
 Because C will not automatically free it up, the heap will begin to expand.
 Eventually, the OS will run out of physical RAM, and it will either start *swapping* (which is when it tries to start using disk as a back-up for memory---a death knell for performance) or simply start killing random programs to free up memory.
+
+[Back to top &uarr;](#)
