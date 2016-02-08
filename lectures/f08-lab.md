@@ -59,7 +59,7 @@ Also, you don't need to worry about "teams" for now: this is helpful for managin
 As your organization's first action, we'd like you to create a new repo for your project.
 Please name this repo "cs207project".
 
-After your team is all finished with this, please [submit this form](http://goo.gl/forms/ghmcZfzeUp) *once* per team:
+After your team is all finished with this, please [submit this group form](http://goo.gl/forms/ghmcZfzeUp) *once* per team:
 
 [Back to top &uarr;](#)
 
@@ -88,6 +88,8 @@ For instance, when the user calls `print( TimeSeries([1,2,3]) )`, it should prin
 But if a user called `print( TimeSeries(range(0,1000000)) )`, it should print something that is substantially *less* than a million elements long.
 For instance, it might show the first couple elements and then an ellipsis, or maybe the length and the first/last element.
 The specific behavior is up to you, but it should have this general flavor.
+
+Please enter the result of running `print( TimeSeries(range(0,1000000)) )` in the [Individual Form](http://goo.gl/forms/2ZGOp2BmtK)
 
 [Back to top &uarr;](#)
 
@@ -122,3 +124,5 @@ for i in range(0,1000):
 
 print("sum",s)
 ```
+
+Please enter the result in the [Individual Form](http://goo.gl/forms/2ZGOp2BmtK).
